@@ -1,0 +1,81 @@
+---
+output: github_document
+always_allow_html: true
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment  = "#>",
+  echo     = FALSE,
+  message  = FALSE,
+  warning  = FALSE
+)
+
+library(webshot2)
+library(tidyRSS)
+library(glue)
+library(stringr)
+library(dplyr)
+library(purrr)
+```
+
+### Hi, I'm Jared 👋
+
+<!--
+**j-andrews7/j-andrews7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+### Here's some stats on my GitHub repos
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=j-andrews7&show_icons=true&theme=dracula">
+    <img src="https://github-readme-stats.vercel.app/api?username=j-andrews7&show_icons=true&theme=dracula
+https://github-readme-stats.vercel.app/api/top-langs/?username=j-andrews7&hide=html,css,jupyter%20notebook&layout=compact">
+</p>
+
+
+### My recent GitHub activity
+
+```{r github, results = "asis"}
+activity <- tidyfeed("https://github.com/j-andrews7.atom") %>%
+    arrange(desc(entry_last_updated)) %>%
+    slice_head(n = 10)
+
+map_chr(activity$entry_title, function(.title) {
+    title <- str_remove(.title, "^j-andrews7 ")
+    title_split <- str_split(str_to_sentence(title), " ", simplify = TRUE)
+    repo <- title_split[length(title_split)]
+    repo_link <- glue("[{repo}](https://github.com/{repo})")
+    event_type <- title_split[1]
+    event <- glue_collapse(title_split[-length(title_split)], sep = " ")
+    emoji <- case_when(
+        event_type == "Commented" ~ "🗣",
+        event_type == "Closed"    ~ "🎊",
+        event_type == "Merged"    ~ "🎉",
+        event_type == "Opened"    ~ "🤔",
+        event_type == "Pushed"    ~ "📨",
+        event_type == "Starred"   ~ "⭐️",
+        event_type == "Forked"    ~ "🍴",
+        event_type == "Released"  ~ "📦",
+        TRUE                      ~ "😺"
+    )
+    glue("* {emoji} {event} {repo_link}")
+})  %>%
+    paste(collapse = "\n") %>%
+    cat()
+```
+

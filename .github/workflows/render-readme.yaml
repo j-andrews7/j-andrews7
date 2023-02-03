@@ -1,0 +1,43 @@
+name: Render README
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '27 * * * *'
+
+jobs:
+  render:
+    name: Render README
+    runs-on: macOS-latest
+    env:
+      RENV_PATHS_ROOT: ~/Library/Application Support/renv
+    steps:
+      - uses: actions/checkout@v2
+      - uses: r-lib/actions/setup-r@v1
+        with:
+          r-version: '4.1.2'
+      - uses: r-lib/actions/setup-pandoc@v1
+      - name: Cache packages
+        uses: actions/cache@v1
+        with:
+          path: ${{ env.RENV_PATHS_ROOT }}
+          key: ${{ runner.os }}-renv-${{ hashFiles('**/renv.lock') }}
+          restore-keys: |
+            ${{ runner.os }}-renv-
+      - name: Restore packages
+        shell: Rscript {0}
+        run: |
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages("renv")
+          renv::restore()
+      - name: Render README
+        run: Rscript -e 'rmarkdown::render("README.Rmd")'
+      - name: Clean README
+        # Remove the extra tweet images because I can't work out stop them
+        run: sed -i '' '/width="0"/d' README.md
+      - name: Commit results
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git commit -a -m 'Re-build README.Rmd' || echo "No changes to commit"
+          git push origin || echo "Done!"
