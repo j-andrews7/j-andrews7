@@ -28,7 +28,7 @@ jobs:
       - name: Restore packages
         shell: Rscript {0}
         run: |
-          if (!requireNamespace("renv", quietly = TRUE)) install.packages(c("renv", "rmarkdown"))
+          if (!requireNamespace("renv", quietly = TRUE)) install.packages(c("renv", "rmarkdown", "webshot2", "tidyRSS", "glue", "stringr", "dplyr", "purrr"))
           renv::restore()
       - name: Render README
         run: Rscript -e 'rmarkdown::render("README.Rmd")'
