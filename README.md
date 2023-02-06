@@ -3,20 +3,32 @@
 
 ### Hi, I’m Jared 👋
 
-<!--
-**j-andrews7/j-andrews7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Senior Bioinformatics Research Scientist in Suzanne Baker’s lab in
+the Department of Developmental Neurobiology at St. Jude Children’s
+Research Hospital. We study oncohistone mutations in the context of
+pediatric high grade gliomas.
 
-Here are some ideas to get you started:
+Other than analysis, I build useful tools and utilities for the lab and
+community. Recently, I created a basic utility called
+[**strprofiler**](https://github.com/j-andrews7/strprofiler) for
+comparing STR profiles between large collections and identifying
+potential sample swaps. This is particularly useful for labs that
+generate many cell lines/models, as we do.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Lately, I’ve been working on an R package called
+[**CRISPRball**](https://github.com/j-andrews7/CRISPRball), which is
+largely based around a Shiny app of the same name for exploring,
+visualizing, and comparing CRISPR-Cas9 screens analyzed with
+[**MAGeCK**](https://sourceforge.net/projects/mageck/). While this is a
+work in progress, it is functionally complete and will hopefully be in
+the next release of Bioconductor.
+
+I am/have been involved in a handful of Bioconductor packages, including
+[dittoSeq](https://bioconductor.org/packages/release/bioc/html/dittoSeq.html),
+[SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html),
+[escape](https://bioconductor.org/packages/release/bioc/html/escape.html),
+and
+[celldex](http://bioconductor.org/packages/release/data/experiment/html/celldex.html).
 
 ### Here’s some stats on my GitHub repos
 
@@ -37,6 +49,8 @@ Here are some ideas to get you started:
     [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
   - 📨 Pushed to main in
     [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
+  - 📨 Pushed to main in
+    [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
   - 📨 Pushed to master in
     [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
   - 🎊 Closed an issue in
@@ -46,6 +60,4 @@ Here are some ideas to get you started:
   - 🎊 Closed an issue in
     [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
   - 📨 Pushed to master in
-    [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
-  - 🎉 Merged a pull request in
     [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
