@@ -41,6 +41,10 @@ and
 
 ### My recent GitHub activity
 
+  - ⭐️ Starred
+    [althonos/pymemesuite](https://github.com/althonos/pymemesuite)
+  - 😺 Created a branch mle in
+    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
   - 📨 Pushed to main in
     [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
   - 📨 Pushed to main in
@@ -56,8 +60,4 @@ and
   - 🎊 Closed an issue in
     [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
   - 🎊 Closed an issue in
-    [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
-  - 🎊 Closed an issue in
-    [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
-  - 📨 Pushed to master in
     [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
