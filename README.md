@@ -41,6 +41,16 @@ and
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to main in
+    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
+  - 📨 Pushed to main in
+    [j-andrews7/singularity-rstudio](https://github.com/j-andrews7/singularity-rstudio)
+  - 🗣 Commented on issue
+    [althonos/pymemesuite\#1](https://github.com/althonos/pymemesuite#1)
+  - 🗣 Commented on issue
+    [ltla/singler\#56](https://github.com/ltla/singler#56)
+  - 🤔 Opened an issue in
+    [althonos/pymemesuite](https://github.com/althonos/pymemesuite)
   - ⭐️ Starred
     [althonos/pymemesuite](https://github.com/althonos/pymemesuite)
   - 😺 Created a branch mle in
@@ -51,13 +61,3 @@ and
     [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
   - 📨 Pushed to main in
     [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
-  - 📨 Pushed to main in
-    [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
-  - 📨 Pushed to main in
-    [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
-  - 📨 Pushed to master in
-    [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
-  - 🎊 Closed an issue in
-    [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
-  - 🎊 Closed an issue in
-    [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
