@@ -41,6 +41,16 @@ and
 
 ### My recent GitHub activity
 
+  - 🗣 Commented on issue
+    [j-andrews7/kenpompy\#43](https://github.com/j-andrews7/kenpompy#43)
+  - ⭐️ Starred
+    [crisprverse/screencounter](https://github.com/crisprverse/screencounter)
+  - 📨 Pushed to mle in
+    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
+  - 📨 Pushed to mle in
+    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
+  - 🗣 Commented on issue
+    [j-andrews7/kenpompy\#44](https://github.com/j-andrews7/kenpompy#44)
   - 📨 Pushed to main in
     [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
   - 📨 Pushed to main in
@@ -51,13 +61,3 @@ and
     [ltla/singler\#56](https://github.com/ltla/singler#56)
   - 🤔 Opened an issue in
     [althonos/pymemesuite](https://github.com/althonos/pymemesuite)
-  - ⭐️ Starred
-    [althonos/pymemesuite](https://github.com/althonos/pymemesuite)
-  - 😺 Created a branch mle in
-    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
-  - 📨 Pushed to main in
-    [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
-  - 📨 Pushed to main in
-    [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
-  - 📨 Pushed to main in
-    [j-andrews7/j-andrews7](https://github.com/j-andrews7/j-andrews7)
