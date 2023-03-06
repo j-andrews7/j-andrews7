@@ -41,6 +41,18 @@ and
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to mle in
+    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
+  - 🗣 Commented on issue
+    [j-andrews7/kenpompy\#47](https://github.com/j-andrews7/kenpompy#47)
+  - 🗣 Commented on pull request
+    [j-andrews7/kenpompy\#46](https://github.com/j-andrews7/kenpompy#46)
+  - 🎊 Closed an issue in
+    [j-andrews7/kenpompy](https://github.com/j-andrews7/kenpompy)
+  - 📨 Pushed to master in
+    [j-andrews7/kenpompy](https://github.com/j-andrews7/kenpompy)
+  - 🎉 Merged a pull request in
+    [j-andrews7/kenpompy](https://github.com/j-andrews7/kenpompy)
   - 🗣 Commented on issue
     [j-andrews7/kenpompy\#43](https://github.com/j-andrews7/kenpompy#43)
   - ⭐️ Starred
@@ -49,15 +61,3 @@ and
     [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
   - 📨 Pushed to mle in
     [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
-  - 🗣 Commented on issue
-    [j-andrews7/kenpompy\#44](https://github.com/j-andrews7/kenpompy#44)
-  - 📨 Pushed to main in
-    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
-  - 📨 Pushed to main in
-    [j-andrews7/singularity-rstudio](https://github.com/j-andrews7/singularity-rstudio)
-  - 🗣 Commented on issue
-    [althonos/pymemesuite\#1](https://github.com/althonos/pymemesuite#1)
-  - 🗣 Commented on issue
-    [ltla/singler\#56](https://github.com/ltla/singler#56)
-  - 🤔 Opened an issue in
-    [althonos/pymemesuite](https://github.com/althonos/pymemesuite)
