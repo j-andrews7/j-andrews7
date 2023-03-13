@@ -41,23 +41,23 @@ and
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to mle in
-    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
   - 🗣 Commented on issue
-    [j-andrews7/kenpompy\#47](https://github.com/j-andrews7/kenpompy#47)
-  - 🗣 Commented on pull request
-    [j-andrews7/kenpompy\#46](https://github.com/j-andrews7/kenpompy#46)
+    [ltla/singler\#236](https://github.com/ltla/singler#236)
+  - 🗣 Commented on issue
+    [j-andrews7/kenpompy\#43](https://github.com/j-andrews7/kenpompy#43)
+  - 🗣 Commented on issue
+    [j-andrews7/kenpompy\#43](https://github.com/j-andrews7/kenpompy#43)
+  - 🎊 Closed an issue in
+    [j-andrews7/kenpompy](https://github.com/j-andrews7/kenpompy)
   - 🎊 Closed an issue in
     [j-andrews7/kenpompy](https://github.com/j-andrews7/kenpompy)
   - 📨 Pushed to master in
     [j-andrews7/kenpompy](https://github.com/j-andrews7/kenpompy)
   - 🎉 Merged a pull request in
     [j-andrews7/kenpompy](https://github.com/j-andrews7/kenpompy)
+  - 📨 Pushed to mle in
+    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
   - 🗣 Commented on issue
-    [j-andrews7/kenpompy\#43](https://github.com/j-andrews7/kenpompy#43)
-  - ⭐️ Starred
-    [crisprverse/screencounter](https://github.com/crisprverse/screencounter)
-  - 📨 Pushed to mle in
-    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
-  - 📨 Pushed to mle in
-    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
+    [j-andrews7/kenpompy\#47](https://github.com/j-andrews7/kenpompy#47)
+  - 🗣 Commented on pull request
+    [j-andrews7/kenpompy\#46](https://github.com/j-andrews7/kenpompy#46)
