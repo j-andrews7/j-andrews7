@@ -41,6 +41,8 @@ and
 
 ### My recent GitHub activity
 
+  - 🤔 Opened an issue in
+    [crisprverse/screencounter](https://github.com/crisprverse/screencounter)
   - 🗣 Commented on pull request
     [j-andrews7/kenpompy\#50](https://github.com/j-andrews7/kenpompy#50)
   - 😺 Created a branch main in
@@ -59,5 +61,3 @@ and
     [stjude-biohackathon/kids23-team12](https://github.com/stjude-biohackathon/kids23-team12)
   - 😺 Created a repository
     [stjude-biohackathon/kids23-team12](https://github.com/stjude-biohackathon/kids23-team12)
-  - 😺 Created a branch main in
-    [stjude-biohackathon/kids23-team11](https://github.com/stjude-biohackathon/kids23-team11)
