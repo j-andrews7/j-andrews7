@@ -42,21 +42,22 @@ and
 ### My recent GitHub activity
 
   - 📨 Pushed to main in
+    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
+  - 🎊 Closed an issue in
+    [bioconductor/buildabiocworkshop](https://github.com/bioconductor/buildabiocworkshop)
+  - 🗣 Commented on issue
+    [bioconductor/buildabiocworkshop\#37](https://github.com/bioconductor/buildabiocworkshop#37)
+  - 😺 Created a branch devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
+  - 😺 Created a repository
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
+  - 🤔 Opened an issue in
+    [bioconductor/buildabiocworkshop](https://github.com/bioconductor/buildabiocworkshop)
+  - 🤔 Opened an issue in
+    [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
+  - 📨 Pushed to main in
     [j-andrews7/singularity-rstudio](https://github.com/j-andrews7/singularity-rstudio)
   - 😺 Added christylaflamme to
     [stjude-biohackathon/methminer](https://github.com/stjude-biohackathon/methminer)
   - 📨 Pushed to main in
     [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
-  - 📨 Pushed to main in
-    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
-  - 🗣 Commented on issue
-    [althonos/pymemesuite\#1](https://github.com/althonos/pymemesuite#1)
-  - ⭐️ Starred [marionilab/milode](https://github.com/marionilab/milode)
-  - 🎊 Closed an issue in
-    [crisprverse/screencounter](https://github.com/crisprverse/screencounter)
-  - 🗣 Commented on issue
-    [crisprverse/screencounter\#1](https://github.com/crisprverse/screencounter#1)
-  - 🤔 Opened an issue in
-    [crisprverse/screencounter](https://github.com/crisprverse/screencounter)
-  - 🗣 Commented on pull request
-    [j-andrews7/kenpompy\#50](https://github.com/j-andrews7/kenpompy#50)
