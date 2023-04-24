@@ -41,23 +41,23 @@ and
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
   - 📨 Pushed to main in
     [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
   - 🎊 Closed an issue in
     [bioconductor/buildabiocworkshop](https://github.com/bioconductor/buildabiocworkshop)
   - 🗣 Commented on issue
     [bioconductor/buildabiocworkshop\#37](https://github.com/bioconductor/buildabiocworkshop#37)
-  - 😺 Created a branch devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 😺 Created a repository
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 🤔 Opened an issue in
-    [bioconductor/buildabiocworkshop](https://github.com/bioconductor/buildabiocworkshop)
-  - 🤔 Opened an issue in
-    [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
-  - 📨 Pushed to main in
-    [j-andrews7/singularity-rstudio](https://github.com/j-andrews7/singularity-rstudio)
-  - 😺 Added christylaflamme to
-    [stjude-biohackathon/methminer](https://github.com/stjude-biohackathon/methminer)
-  - 📨 Pushed to main in
-    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
