@@ -41,23 +41,22 @@ and
 
 ### My recent GitHub activity
 
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 📨 Pushed to main in
-    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
-  - 🎊 Closed an issue in
-    [bioconductor/buildabiocworkshop](https://github.com/bioconductor/buildabiocworkshop)
+  - 🤔 Opened an issue in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 🤔 Opened an issue in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 🤔 Opened an issue in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 🤔 Opened an issue in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - ⭐️ Starred [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
   - 🗣 Commented on issue
-    [bioconductor/buildabiocworkshop\#37](https://github.com/bioconductor/buildabiocworkshop#37)
+    [dtm2451/dittoseq\#101](https://github.com/dtm2451/dittoseq#101)
+  - 🗣 Commented on issue
+    [dtm2451/dittoseq\#101](https://github.com/dtm2451/dittoseq#101)
+  - 🗣 Commented on issue
+    [dtm2451/dittoseq\#101](https://github.com/dtm2451/dittoseq#101)
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
