@@ -41,22 +41,23 @@ and
 
 ### My recent GitHub activity
 
-  - 🤔 Opened an issue in
+  - 📨 Pushed to main in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 📨 Pushed to main in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 🎉 Merged a pull request in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 🤔 Opened a pull request in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 📨 Pushed to main in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 🎉 Merged a pull request in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 🤔 Opened a pull request in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 📨 Pushed to motifs in
+    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
+  - 📨 Pushed to motifs in
     [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
   - 🤔 Opened an issue in
     [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
-  - 🤔 Opened an issue in
-    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
-  - 🤔 Opened an issue in
-    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
-  - ⭐️ Starred [xtekky/gpt4free](https://github.com/xtekky/gpt4free)
-  - 🗣 Commented on issue
-    [dtm2451/dittoseq\#101](https://github.com/dtm2451/dittoseq#101)
-  - 🗣 Commented on issue
-    [dtm2451/dittoseq\#101](https://github.com/dtm2451/dittoseq#101)
-  - 🗣 Commented on issue
-    [dtm2451/dittoseq\#101](https://github.com/dtm2451/dittoseq#101)
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforscientistsworkshop](https://github.com/j-andrews7/shinyforscientistsworkshop)
