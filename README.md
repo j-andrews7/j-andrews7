@@ -41,23 +41,23 @@ and
 
 ### My recent GitHub activity
 
-  - 🤔 Opened an issue in
-    [j-andrews7/awesome-bioinformatics-benchmarks](https://github.com/j-andrews7/awesome-bioinformatics-benchmarks)
   - 📨 Pushed to mle in
     [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
   - 📨 Pushed to mle in
     [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
   - 📨 Pushed to mle in
     [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
+  - 🗣 Commented on pull request
+    [j-andrews7/kenpompy\#53](https://github.com/j-andrews7/kenpompy#53)
   - 📨 Pushed to mle in
+    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
+  - 📨 Pushed to mle in
+    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
+  - 🤔 Opened a pull request in
     [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
   - 📨 Pushed to mle in
     [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
   - 📨 Pushed to mle in
     [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
-  - 📨 Pushed to mle in
-    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
-  - 📨 Pushed to motif-updates in
-    [stjude-biohackathon/kids23-team14](https://github.com/stjude-biohackathon/kids23-team14)
-  - 📨 Pushed to mle in
-    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
+  - 🗣 Commented on issue
+    [ay-lab/fithichip\#95](https://github.com/ay-lab/fithichip#95)
