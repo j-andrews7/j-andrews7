@@ -41,6 +41,14 @@ and
 
 ### My recent GitHub activity
 
+  - 📨 Pushed to devel in
+    [j-andrews7/shinyforresearchersworkshop](https://github.com/j-andrews7/shinyforresearchersworkshop)
+  - 📨 Pushed to add-mle in
+    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
+  - 📨 Pushed to main in
+    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
+  - 📨 Pushed to main in
+    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
   - 😺 Created a branch add-mle in
     [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
   - 😺 Deleted branch mle at
@@ -53,11 +61,3 @@ and
     [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
   - 📨 Pushed to main in
     [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
-  - 📨 Pushed to main in
-    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
-  - 📨 Pushed to main in
-    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
-  - 🗣 Commented on issue
-    [ltla/singler\#244](https://github.com/ltla/singler#244)
-  - 📨 Pushed to mle in
-    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
