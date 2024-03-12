@@ -39,25 +39,4 @@ and
 
 </p>
 
-### My recent GitHub activity
 
-  - 📨 Pushed to org-hist in
-    [stjude-biohackathon/bioshinymodules](https://github.com/stjude-biohackathon/bioshinymodules)
-  - 😺 Created a branch org-hist in
-    [stjude-biohackathon/bioshinymodules](https://github.com/stjude-biohackathon/bioshinymodules)
-  - 📨 Pushed to main in
-    [j-andrews7/countyamenitiesexplorer](https://github.com/j-andrews7/countyamenitiesexplorer)
-  - 📨 Pushed to main in
-    [j-andrews7/countyamenitiesexplorer](https://github.com/j-andrews7/countyamenitiesexplorer)
-  - 😺 Created a branch main in
-    [j-andrews7/countyamenitiesexplorer](https://github.com/j-andrews7/countyamenitiesexplorer)
-  - 😺 Created a repository
-    [j-andrews7/countyamenitiesexplorer](https://github.com/j-andrews7/countyamenitiesexplorer)
-  - 📨 Pushed to devel in
-    [j-andrews7/shinyforresearchersworkshop](https://github.com/j-andrews7/shinyforresearchersworkshop)
-  - 📨 Pushed to add-mle in
-    [j-andrews7/crisprball](https://github.com/j-andrews7/crisprball)
-  - 📨 Pushed to main in
-    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
-  - 📨 Pushed to main in
-    [j-andrews7/knowledgedump](https://github.com/j-andrews7/knowledgedump)
