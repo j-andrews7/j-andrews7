@@ -19,9 +19,7 @@ Lately, I’ve been working on an R package called
 [**CRISPRball**](https://github.com/j-andrews7/CRISPRball), which is
 largely based around a Shiny app of the same name for exploring,
 visualizing, and comparing CRISPR-Cas9 screens analyzed with
-[**MAGeCK**](https://sourceforge.net/projects/mageck/). While this is a
-work in progress, it is functionally complete and will hopefully be in
-the next release of Bioconductor.
+[**MAGeCK**](https://sourceforge.net/projects/mageck/), which was recently accepted into [Bioconductor](https://bioconductor.org/packages/release/bioc/html/CRISPRball.html).
 
 I am/have been involved in a handful of Bioconductor packages, including
 [dittoSeq](https://bioconductor.org/packages/release/bioc/html/dittoSeq.html),
