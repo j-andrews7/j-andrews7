@@ -10,7 +10,7 @@ pediatric high grade gliomas.
 
 Other than analysis, I build useful tools and utilities for the lab and
 community. Recently, I created a basic utility called
-[**strprofiler**](https://github.com/j-andrews7/strprofiler) for
+[**STRprofiler**](https://github.com/j-andrews7/strprofiler) for
 comparing STR profiles between large collections and identifying
 potential sample swaps. This is particularly useful for labs that
 generate many cell lines/models, as we do.
@@ -19,7 +19,8 @@ Lately, I’ve been working on an R package called
 [**CRISPRball**](https://github.com/j-andrews7/CRISPRball), which is
 largely based around a Shiny app of the same name for exploring,
 visualizing, and comparing CRISPR-Cas9 screens analyzed with
-[**MAGeCK**](https://sourceforge.net/projects/mageck/), which was recently accepted into [Bioconductor](https://bioconductor.org/packages/release/bioc/html/CRISPRball.html).
+[**MAGeCK**](https://sourceforge.net/projects/mageck/). 
+**CRISPRball** is now available from [Bioconductor](https://bioconductor.org/packages/release/bioc/html/CRISPRball.html).
 
 I am/have been involved in a handful of Bioconductor packages, including
 [dittoSeq](https://bioconductor.org/packages/release/bioc/html/dittoSeq.html),
