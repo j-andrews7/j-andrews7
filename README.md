@@ -22,12 +22,18 @@ visualizing, and comparing CRISPR-Cas9 screens analyzed with
 [**MAGeCK**](https://sourceforge.net/projects/mageck/). 
 **CRISPRball** is now available from [Bioconductor](https://bioconductor.org/packages/release/bioc/html/CRISPRball.html).
 
-I am/have been involved in a handful of Bioconductor packages, including
+I am/have been involved in a handful of Bioconductor/CRAN packages, including
 [dittoSeq](https://bioconductor.org/packages/release/bioc/html/dittoSeq.html),
+[dittoViz](https://cran.r-project.org/web/packages/dittoViz/index.html),
 [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html),
 [escape](https://bioconductor.org/packages/release/bioc/html/escape.html),
 and
 [celldex](http://bioconductor.org/packages/release/data/experiment/html/celldex.html).
+
+I also maintain:
+[EnhancedVolcano](https://bioconductor.org/packages/release/bioc/html/EnhancedVolcano.html),
+and
+[PCAtools](https://www.bioconductor.org/packages/release/bioc/html/PCAtools.html)
 
 ### Here’s some stats on my GitHub repos
 
