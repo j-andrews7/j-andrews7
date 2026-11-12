@@ -11,7 +11,9 @@ pediatric high grade gliomas.
 I am/have been involved in a handful of Bioconductor/CRAN R packages, including:
 
 - [VizModules](https://cran.r-project.org/web/packages/VizModules/index.html) (developer, maintainer)
+- [sciVizModules](https://github.com/j-andrews7/sciVizModules) (developer, maintainer)
 - [CRISPRball](https://bioconductor.org/packages/release/bioc/html/CRISPRball.html) (developer, maintainer)
+- [STRprofilerR](https://bioconductor.org/packages/devel/bioc/html/STRprofilerR.html) (developer, maintainer)
 - [dittoSeq](https://bioconductor.org/packages/release/bioc/html/dittoSeq.html) (contributor)
 - [dittoViz](https://cran.r-project.org/web/packages/dittoViz/index.html) (contributor)
 - [SingleR](https://bioconductor.org/packages/release/bioc/html/SingleR.html) (contributor)
